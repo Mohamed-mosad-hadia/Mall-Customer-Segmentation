@@ -86,4 +86,7 @@ The customer segmentation model achieves a
 indicating that the clustering algorithm performs reasonably well at grouping similar customers while maintaining separation between distinct groups.
 
 
-  
+
+
+  ![Image] (![image](https://github.com/user-attachments/assets/d4c80e7d-8c56-49b4-817f-0d51820aaedc)
+
