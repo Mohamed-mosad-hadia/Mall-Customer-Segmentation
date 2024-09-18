@@ -88,5 +88,4 @@ indicating that the clustering algorithm performs reasonably well at grouping si
 
 
 
-  ![Image] (![image](https://github.com/user-attachments/assets/d4c80e7d-8c56-49b4-817f-0d51820aaedc)
-
+![image](https://github.com/user-attachments/assets/d4c80e7d-8c56-49b4-817f-0d51820aaedc)
